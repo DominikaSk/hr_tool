@@ -19,4 +19,4 @@
 
 
 ## Contact
-Created by [@DominikaSk]
+Created by [@DominikaSkrzeczkowska](https://www.linkedin.com/in/dominikaskrzeczkowska/) - feel free to contact me!
