@@ -9,7 +9,8 @@
 
 ## General Information
 - Project provides options as follows (writen in polish):
-![image](https://user-images.githubusercontent.com/33248134/161323596-f8f9751c-29f0-4356-bfd4-99ab0e8d1f46.png)
+
+![image](https://user-images.githubusercontent.com/33248134/161324549-3d915fec-4296-4496-ae9d-1bfbf981a984.png)
 
 
 ## Technologies Used
