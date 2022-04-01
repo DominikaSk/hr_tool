@@ -14,8 +14,8 @@
 
 
 ## Technologies Used
-- Python
-- SQLite
+- Python 3.10.4
+- SQLite3
 
 
 ## Contact
