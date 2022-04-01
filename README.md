@@ -1,5 +1,5 @@
 # HR_tool
-> Simple tool for managing employees database. User can log-in as HR employee (login: hr, password: 4321) or Admin (login: admin, password: 1234). Both user can access different features.
+> Simple tool for managing employees database. User can log-in as HR employee (login: hr, password: 4321) or Admin (login: admin, password: 1234). Both users have access to different features.
 
 ## Table of Contents
 * [General Info](#general-information)
